@@ -9,13 +9,13 @@ A API calcula automaticamente quanto você tem, somando as entradas e subtraindo
 
 ## Como usar a API
 Depois de baixar o projeto e rodar o comando: 
-  ``bash
+  ```bash
     npm install
-  ``
+  ```
 1.  **Para ligar o servidor:**
-   ``bash
+   ```bash
      npm run dev
-   ``
+   ```
 2.  **Para cadastrar um gasto/ganho:** Mande um POST no Postman para `http://localhost:3333/transactions` usando essa estrutura (exemplo):
   ```bash
    { 
