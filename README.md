@@ -25,7 +25,8 @@ Depois de baixar o projeto e rodar o comando:
    "category": "Vendas"
    }  
 ```
-  **Observação: use "income" para ganhos ou "outcome" para gastos
+  **Observação:** use "income" para ganhos ou "outcome" para gastos
+  
 4.  **Para ver a lista de tudo o que salvou:** Acesse no navegador ou Postman: `http://localhost:3333/transactions`
 5.  **Para ver os gastos,ganhos e o saldo total:** Acesse no navegador ou Postman :`http://localhost:3333/transactions/balance`
 
