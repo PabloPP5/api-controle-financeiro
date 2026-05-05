@@ -29,8 +29,3 @@ Depois de baixar o projeto e rodar o comando:
   
 4.  **Para ver a lista de tudo o que salvou:** Acesse no navegador ou Postman: `http://localhost:3333/transactions`
 5.  **Para ver os gastos,ganhos e o saldo total:** Acesse no navegador ou Postman :`http://localhost:3333/transactions/balance`
-
-## Organização das Pastas
-* `src/controllers`: Cuida de receber o que você digita no Postman.
-* `src/services`: Onde fica a lógica (ex: não aceitar valor negativo).
-* `src/database`: Onde o banco de dados é configurado.
